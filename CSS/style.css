@@ -1,0 +1,509 @@
+h1{color:blue;}
+	p{font-size:20px;}
+	p{border-style:;}
+	h1{font-style: italic;}
+	h2{font-style: oblique;}
+	h2{font-weight: bold;}
+	a{text-decoration: none;}
+	img{height:200px; width: 500px;}
+	
+	.sph img{
+		width: 80px;
+		height:80px;
+	}
+	.sph{ background-color:blue;
+	width:49%;
+	float:left;
+	padding:10px;
+	}
+	.learn{background-color : pink;
+	width:47%;
+	float:right;
+	padding: 10px;
+	
+	}
+	.sph h1{color:white;
+	
+	}
+	
+	.learn h2{color:white;
+	
+	}
+	
+
+.bks img{
+		width: 400px;
+		height:200px;
+	}
+
+
+
+.pn img{
+		width: 400px;
+		height:210px;
+	}
+
+
+.shs img{
+		width: 400px;
+		height:165px;
+	}
+	.shs{ background-color:blue;
+	width:30%;
+	float:right;
+	padding:10px;
+	}
+	.bks{background-color : pink;
+	width:32%;
+	float:right;
+	padding: 10px;
+	
+	}
+
+	.pn{ background-color:purple;
+	width:32%;
+	float:left;
+	padding:10px;
+	}
+
+
+	.shs h1{color:white;
+	
+	}
+	
+	.bks h2{color:white;
+	
+	}
+
+	.pn h3{color:white;
+	}
+
+
+.maureen{
+	width:100%;
+	background-color: silver;
+}
+
+	.maureen h3{
+		color:blue;
+		margin-top: -1px;
+		text-align:center;
+		color:white;
+		padding:5px;
+		
+
+
+	}
+	.maureen h4{
+		color:black;
+		margin-top: -1px;
+		text-align: center;
+		color:white;
+
+	}
+	.maureen img{ 
+	width :100%; 
+	margin-top: -7.6px;
+	height:300px;
+
+}
+
+
+.nick{
+	width:100%;
+	background-color: silver;
+}
+
+.nick h3{
+		
+		margin-top: -1px;
+		text-align:center;
+		color:black;
+		padding:5px;
+		width:100%;
+		padding-top: 10px;
+
+
+	}
+	.nick h4{
+		
+		margin-top: -1px;
+		text-align: center;
+		color:black;
+
+	}
+	.nick img{ 
+	width :100%; 
+	height:270px;
+	margin-top: -1px;
+	
+}
+
+
+.responsive {
+  width: 100%;
+  height: 650px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+.contact iframe{
+	height:625px;
+}
+.img{
+	height:68px;
+	width:79px;
+}
+
+
+
+.footer {
+	background-color:#66DC00;
+	margin-top: -1px;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+	margin-bottom:16px;
+	padding:20px;
+	}
+
+.icon{
+background-color:blue;
+		margin-top: -1px;
+text-align: center;
+		color:white;
+		margin-bottom:16px;
+		height:218px;
+     width: 100%;
+     margin-left: 10px;
+}
+.icon h5 {
+	text-align: center;
+}
+.icon img{
+height:50px;
+	width:50px;
+	margin-left:150;
+
+}
+
+
+.any{
+background-color:#CC0023;
+		margin-top: -1px;
+text-align: center;
+		color:white;
+		margin-bottom:16px;
+		height:218px;
+     width: 100%;
+     margin-left: -1px;
+}
+.any h5 {
+	text-align: center;
+}
+.any img{
+height:50px;
+	width:50px;
+	margin-left:150;
+
+}
+
+
+.location{
+background-color:orange;
+		margin-top: -1px;
+text-align: center;
+		color:white;
+		margin-bottom:16px;
+		height:218px;
+     width: 100%;
+     margin-left: 10px;
+}
+.location h5 {
+	text-align: center;
+}
+.location img{
+height:50px;
+	width:50px;
+	margin-left:150;
+
+}
+
+
+.robert img{
+	height:68px;
+	width:70px;
+	margin-left:150;
+}
+
+.robert{
+	background-color:#FF8700;
+		margin-top: -1px;
+		text-align: center;
+		color:white;
+		margin-bottom:16px;
+		height:240px;
+     padding:20px;
+
+}
+
+
+.gloria img{
+	height:68px;
+	width:70px;
+	
+}
+
+.gloria{
+	
+		margin-top: -1px;
+		text-align: center;
+		color:white;
+		margin-bottom:16px;
+		height:240px;
+     padding:20px;
+
+}
+
+
+
+.siah img{
+	height:68px;
+	width:70px;
+	margin-left:150;
+}
+
+.siah{
+	background-color:#CC5A00;
+		margin-top: -1px;
+		text-align: center;
+		color:white;
+		margin-bottom:16px;
+		height:240px;
+     padding:20px;
+
+}
+
+
+
+.salim img{
+	height:68px;
+	width:70px;
+	margin-left:100;
+}
+
+.salim{
+	background-color:#FF6E00;
+		margin-top: -1px;
+		text-align:center;
+		color:white;
+		margin-bottom:16px;
+		height:220px;
+     padding:20px;
+     width: 600px;
+     padding-left: 1px;
+
+}
+
+
+.point{
+width:100%;
+background-color:black;
+
+
+}
+
+
+.kessy img{
+	height:68px;
+	width:70px;
+	margin-left:150;
+}
+
+.kessy{
+	
+		margin-top: -1px;
+		text-align: center;
+		color:white;
+		margin-bottom:16px;
+		height:240px;
+     padding:20px;
+
+}
+
+
+.godwin img{
+	height:60px;
+	width:60px;
+	margin-left:150;
+}
+
+.godwin{
+	
+		margin-top: -5px;
+		text-align: center;
+		color:white;
+		margin-bottom:16px;
+		height:240px;
+     padding:20px;
+
+
+}
+
+.about{
+	background-color: black;
+	color:white;
+	padding:25px;
+
+}
+
+.about img{
+ height:500px;
+ width:100%;
+
+}
+ h1{
+ 	color:white;
+ 	font-size: 60px;
+ }
+ .two{
+ 	color:yellow;
+ }
+ .two:hover{
+ 	color:orange;
+ }
+
+
+ .three{
+ 	color:yellow;
+ }
+ .three:hover{
+ 	color:orange;
+ }
+
+ .four{
+ 	color:yellow;
+ }
+ .four:hover{
+ 	color:orange;
+ }
+
+ .five{
+ 	color:yellow;
+ }
+ .five:hover{
+ 	color:orange;
+ }
+
+
+ .six{
+ 	color:yellow;
+ }
+ .six:hover{
+ 	color:orange;
+ }
+
+ .seven{
+ 	color:yellow;
+ }
+ .seven:hover{
+ 	color:orange;
+ }
+
+ .eight{
+ 	color:yellow;
+ }
+ .eight:hover{
+ 	color:orange;
+ }
+
+
+ .heading img{
+ 	width:12%;
+ 	height:45px;
+ 	margin-left:0px;
+ 	margin-bottom: -75px;
+ }
+
+ .mission h2{
+text-align: center;
+ }
+
+ .mission{
+background-color:pink;
+margin-bottom:16px;
+margin-top: 50px;
+padding:60px;
+margin-left: -1px;
+color:white;
+ }
+
+.heading{
+	
+	border-color: pink;
+	border-style: solid;
+	padding-top:36px;
+
+	
+
+}
+.heading p{
+margin-top: 25px;
+margin-left: 82px;
+
+}
+
+.ten {
+	background-color: white;
+	padding-bottom: -1px;
+	padding-top: 50px;
+	color:black;
+
+}
+.ten img{
+width:100%;
+height: 70px;
+padding:2px;
+
+}
+
+.ten td{
+	padding:15px; 
+	border:1px solid;
+}
+
+
+.daytona img{
+	height:300px; 
+	width:425px;
+	padding-left: 10px;
+	background-color: grey;
+}
+ li{ 
+ display:inline-block; 
+ padding:15px;
+ color:white;
+}
+
+
+.image img{
+	width: 100%;
+	height: 700px;
+}
+
+.about img{
+	width:105%;
+}
+
+.about{
+	background-color:teal;
+	color:black;
+}
